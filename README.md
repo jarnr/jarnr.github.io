@@ -1,2 +1,2 @@
-# jarnr.github.io
-GitHub Page
+# John Richmond
+Welcome.
